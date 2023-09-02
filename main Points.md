@@ -6,6 +6,7 @@
 Products: 
 https://www.shufersal.co.il/
 
+![logo](https://upload.wikimedia.org/wikipedia/he/f/f0/ShufersalLogo.svg)
 
 Posts:
 
